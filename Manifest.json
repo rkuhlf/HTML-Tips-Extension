@@ -1,0 +1,13 @@
+{
+	"name": "HTML Tips",
+	"manifest_version": 2,
+	"description": "Changes your home tab to show random HTML tips",
+	"version": "0.1",
+	"permissions": ["management"],
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"icons": {
+		"128": "icon.png"
+	}
+}
