@@ -1,0 +1,17 @@
+body {
+  margin: 3rem;
+  background-color: #ff6d00;
+  color: white; }
+  body h1 {
+    text-align: center;
+    font-size: 2.5rem; }
+  body .code {
+    font-family: monaco, Consolas, "Lucida Console", monospace;
+    background-color: #e65100;
+    padding: 0.5em 0.75em;
+    font-size: 1.15rem;
+    border-radius: 0.15rem;
+    display: block;
+    margin: 0.1rem 0; }
+
+/*# sourceMappingURL=Style.css.map */
